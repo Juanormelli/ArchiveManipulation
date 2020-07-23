@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.exe
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.deps.json
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.runtimeconfig.json
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.dll
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\bin\Debug\netcoreapp3.1\ArchivesManipulatio.pdb
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.dll
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.pdb
+C:\Users\juan_\source\repos\ArchivesManipulatio\ArchivesManipulatio\obj\Debug\netcoreapp3.1\ArchivesManipulatio.genruntimeconfig.cache
